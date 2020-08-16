@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrplaygroundproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Sohaib Khadri\\Github\\VR-Playground\\VR-Playground-Project\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR-Playground-Project [Testing]"
+        }
+      }
+    }
+  ]
+}
